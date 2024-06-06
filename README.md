@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Python script demonstrates a powerful way for scraping data from the API endpoint of an e-commerce **intersport** website. Is particularly useful for fetching product information from the API endpoint of dynamic websites built with JavaScript. such as those predominantly using React. I chose as an example product information such as names, titles, subtitles, URLs, review counts, and Google Analytics brand data. This script efficiently saves data to both a JSON file and a MongoDB database.
+This Python script demonstrates a powerful way for scraping data from the API endpoint of an e-commerce **intersport** website. Is particularly useful for fetching product information from the API endpoint of dynamic websites built with JavaScript such as those predominantly using React. I have selected a variety of columns that may be of interest, such as product details and analytics data. This script efficiently saves data to both a JSON file and a MongoDB database.
 
 ## Features
 
