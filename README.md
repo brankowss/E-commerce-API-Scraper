@@ -68,7 +68,7 @@ python scrape_api.py
 
 ## Acknowledgements
 
-This project was inspired by the need for efficient data scraping solutions in the e-commerce industry. And of course presenting my web scraping skills and data handling.
+This project was inspired by the need for efficient data scraping solutions in the e-commerce industry.
 
 ## License
 
