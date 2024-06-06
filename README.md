@@ -62,9 +62,9 @@ python scrape_api.py
 
 ## Scrape Statistics
 
-2024-06-06 21:43:04,826 - INFO - Data scraping completed and saved to MongoDB database
-2024-06-06 21:43:04,827 - INFO - Total products scraped: 34209
-2024-06-06 21:43:04,827 - INFO - Total time taken: 1696.32 seconds
+- 2024-06-06 21:43:04,826 - INFO - Data scraping completed and saved to MongoDB database
+- 2024-06-06 21:43:04,827 - INFO - Total products scraped: 34209
+- 2024-06-06 21:43:04,827 - INFO - Total time taken: 1696.32 seconds
 
 ## Acknowledgements
 
