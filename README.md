@@ -70,11 +70,3 @@ python scrape_api.py
 
 This project was inspired by the need for efficient data scraping solutions in the e-commerce industry.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-
-
-
-
